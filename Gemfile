@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.4.4'
+ruby '2.5.1'
 
 gem 'rails', '~> 4.2.10'
 gem 'rails-html-sanitizer', '~> 1.0.4'
